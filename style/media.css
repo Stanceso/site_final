@@ -1,0 +1,361 @@
+@media screen and (max-width:1300px) {
+    .container {
+        width: 100%;
+        padding: 0px 15px;
+    }
+    .completed {
+        width: 100%;
+    }
+    .title {
+        font-size: 1.5em;
+        width: 100%;
+        line-height: 30px;
+        text-align: left;
+        margin: 0 auto;
+    }
+    .paragraph {
+        font-size: 14px;
+        line-height: 19px;
+        font-weight: 400;
+    }
+    .mobile_picture_one {
+        display: flex;
+        position: relative;
+    }
+    .button_one_type {
+        width: -webkit-fill-available;
+        margin-bottom: 26px;
+        margin: 10px;
+    }
+    .mobile_arrows {
+        display: flex;
+        justify-content: space-between;
+        position: absolute;
+        width: 100%;
+        top: 45%;
+    }
+    .left_elipse {
+        background-image: url("../images/elipse_left.svg");
+        width: 36px;
+        height: 36px;
+        border: none;
+        border-radius: 50%;
+        margin-left: 10px;
+        cursor: pointer;
+    }
+    .right_elipse {
+        background-image: url("../images/elipse_right.svg");
+        width: 36px;
+        height: 36px;
+        border: none;
+        border-radius: 50%;
+        margin-right: 10px;
+        cursor: pointer;
+    }
+    .slider_mobil {
+        width: 100%;
+        height: auto;
+    }
+    .video-man {
+        height: 207px;
+        background-size: cover;
+    }
+    .video {
+        background-color: black;
+    }
+    .video-p {
+        color: #FFFFFF;
+        width: 100%;
+    }
+    .form {
+        display: none;
+    }
+    .mobil_form {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: left;
+        padding-left: 5px;
+    }
+    .mobil_form_mobile {
+        margin-top: 64px;
+    }
+    .mobil_form_name {
+        display: block;
+        color: rgba(255, 255, 255, 0.5);
+        font-size: 13px;
+    }
+    .mobil_form_phone {
+        display: block;
+        color: rgba(255, 255, 255, 0.5);
+        font-size: 13px;
+    }
+    .mobil_form_input {
+        display: block;
+        background-color: black;
+        color: black;
+        width: 97vw;
+        text-align: left;
+        border: none;
+        margin-bottom: 10px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    }
+    .button_submit {
+        width: -webkit-fill-available;
+        margin-bottom: -25px;
+        margin-right: 15px;
+    }
+    .mobil_form_button_one_type {
+        width: -webkit-fill-available;
+        margin-left: 10px;
+        height: 51px;
+    }
+    .checkbox_for_mobile_one {
+        display: flex;
+        margin-bottom: 62px;
+        margin-top: 17px;
+    }
+    .checkbox {
+        order: 1;
+        text-align: start;
+        margin: 0;
+    }
+    .checkbox_text {
+        color: white;
+        margin: 0;
+    }
+    .item_form_one {
+        display: none;
+    }
+    .black-image {
+        display: none;
+    }
+    .card {
+        display: flex;
+        flex-direction: column;
+    }
+    .background_picture {
+        display: none;
+    }
+    .header {
+        padding: 0 15px;
+    }
+    .footer_content {
+        display: none;
+    }
+    .clients_container {
+        display: none;
+    }
+    .other_form {
+        width: 100%;
+        margin: 0;
+        background: black;
+        padding: 18px;
+    }
+    .hero-container {
+        width: 100%;
+        padding: 0 18px;
+        text-align: center;
+    }
+    .header_navigation {
+        display: none;
+    }
+    .hero {
+        width: 100%;
+        background-position: center;
+    }
+    .telephone {
+        color: #FFFFFF;
+        border: none;
+    }
+    .call {
+        display: none;
+    }
+    .projects-navigation-content {
+        display: none;
+    }
+    .subtitle_sections_2 {
+        text-align: center;
+        margin-top: -40px;
+    }
+    .paragraph-left {
+        text-align: center;
+        margin-top: 22px;
+        font-size: 11px;
+        line-height: 17px;
+    }
+    .black-arrows {
+        display: none;
+    }
+    .black_mobile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 95vw;
+    }
+    .column_left {
+        margin: 0;
+        text-align: center;
+        display: inline-block;
+    }
+    .completed {
+        padding: 0 auto;
+        margin: 0;
+        background-color: black;
+    }
+    .card_media {
+        max-width: 95vw;
+    }
+    .card_prop {
+        margin-left: 0;
+    }
+    .button_price {
+        margin-top: -7px;
+        font-style: normal;
+        font-size: 18px;
+        font-family: 'Yeseva One';
+        text-transform: uppercase;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 138.6%;
+    }
+    .clients {
+        margin: 0;
+    }
+    .request_content {
+        display: none;
+    }
+    .fantasy_block_menu {
+        display: none;
+    }
+    .image_block {
+        display: none;
+    }
+    .question_title {
+        display: none;
+    }
+    .icon_hand {
+        display: none;
+    }
+    .clients_paragraph {
+        display: none;
+    }
+    .item_title_one {
+        display: none;
+    }
+    .other_form {
+        display: none;
+    }
+    .block_name {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        width: 231px;
+    }
+    .mobile_form {
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        width: auto;
+        height: auto;
+        margin-left: 10px;
+    }
+    .fantasy_title_mobile {
+        font-size: 22px;
+        line-height: 30px;
+        letter-spacing: -0.07em;
+        text-align: center;
+        color: #E3B873;
+    }
+    .fantasy_mobile {
+        font-size: 22px;
+        line-height: 30px;
+        letter-spacing: -0.07em;
+        text-align: center;
+    }
+    .mobil_from_section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: -120px;
+    }
+    .have_any_mobile_any {
+        font-family: 'Yeseva One';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 28px;
+        text-align: center;
+        text-transform: uppercase;
+        color: white;
+        padding-top: 170px;
+    }
+    .input_one {
+        background-color: black;
+        color: white;
+        border-bottom: 1px solid rgba(54, 54, 54);
+        width: 90vw;
+    }
+    .last_button {
+        width: 100%;
+        margin-right: 10px;
+        margin-top: 30px;
+    }
+    .block_for_mobile_input {
+        margin-top: 62px;
+    }
+    .mobile_any {
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        width: auto;
+        height: auto;
+        margin-left: 10px;
+    }
+    .mobile_contacts {
+        display: block;
+        background-color: black;
+    }
+    .image_for_mobile {
+        background-image: url("../images/interirer_mobi.png");
+        height: 240px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 14px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .any {
+        background: black;
+    }
+    .map_p_mobi {
+        text-align: center;
+        font-family: Yeseva One;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 25px;
+        text-transform: uppercase;
+        color: #E3B873;
+    }
+    .map_google_mobile {
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        padding: 35px;
+    }
+    .map_google {
+        display: none;
+    }
+    .request_section {
+        display: none;
+    }
+    .picture_block {
+        display: none;
+    }
+    .map_overlay {
+        display: none;
+    }
+}
